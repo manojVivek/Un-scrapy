@@ -1,0 +1,6 @@
+server/bin
+
+
+
+client/node_modules
+client/dist/
